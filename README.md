@@ -1,4 +1,4 @@
-# HID Payload: Windows Defender Disable + USB Executable Launch (Authorized Use Only)
+# TurtleDuck: Windows Defender Disable + USB Executable Launch (Authorized Use Only)
 
 > ⚠️ For ethical red teaming, physical security testing, and educational use **only**.
 
